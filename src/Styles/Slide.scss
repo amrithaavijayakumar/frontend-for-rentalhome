@@ -1,0 +1,15 @@
+.slide {
+    width: 100vw;
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://static.vecteezy.com/system/resources/previews/035/593/588/large_2x/ai-generated-cozy-winter-aesthetic-with-a-warm-glow-snow-laden-pines-and-tranquil-serenity-free-photo.jpg");
+    background-position: center top;
+    background-size: cover;
+  
+    h1 {
+      padding: 40px 20px;
+      font-size: 40px;
+      text-align: center;
+      color: white;
+    }
+  }
